@@ -5,7 +5,7 @@ This is a solution to the first project of the Make It Real course.
 ## Table of contents
 
 - [Comprobar si la propiedad existe en el objeto](#Comprobar-si-la-propiedad-existe-en-el-objeto)
-- [Fix Error: manipulación de arreglos](#Fix-Error:-manipulación-de-arreglos)
+- [Fix Error: manipulación de arreglos](#Fix-Error-manipulación-de-arreglos)
 
 
 ## Comprobar si la propiedad existe en el objeto
@@ -22,7 +22,7 @@ function myFunction(a, b) {
 | myFunction({x:'a',y:'b',z:'c'},'a')       | `false`  |
 | myFunction({x:'a',y:'b',z:undefined},'z') | `false`  |
 
-## Fix Error: manipulación de arreglos
+## Fix Error manipulación de arreglos
 ¡Ayuda a corregir todos los errores en la función incrementItems! ¡Está destinado a agregar 1 a cada elemento en el arreglo!
 ```js
 function incrementItems(arr) {
